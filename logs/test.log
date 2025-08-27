@@ -1,0 +1,1303 @@
+10:02:54.186 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:02:54.202 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:02:55.889 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:02:55.968 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/win64/chromedriver-win64.zip
+10:03:00.411 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+10:03:00.695 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:03:02.953 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:03:02.970 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:03:03.624 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:03:03.673 [main] INFO  pages.FormPage - Filling username: TestUser
+10:03:03.803 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:03:03.885 [main] INFO  pages.FormPage - Filling password
+10:03:03.975 [main] INFO  pages.FormPage - Filling confirm password
+10:03:04.052 [main] INFO  pages.FormPage - Verifying password match
+10:03:04.052 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:03:14.082 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:05:33.183 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:05:33.209 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:05:34.171 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:05:34.268 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:05:36.617 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:05:36.635 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:05:37.046 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:05:37.136 [main] INFO  pages.FormPage - Filling username: TestUser
+10:05:37.329 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:05:37.507 [main] INFO  pages.FormPage - Filling password
+10:05:37.630 [main] INFO  pages.FormPage - Filling confirm password
+10:05:37.716 [main] INFO  pages.FormPage - Verifying password match
+10:05:37.716 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:05:37.781 [main] INFO  pages.FormPage - Selecting language level: Intermediate
+10:05:37.865 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:09:21.291 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:09:21.317 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:09:21.745 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:09:21.773 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:09:23.243 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:09:23.259 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:09:23.641 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:09:23.701 [main] INFO  pages.FormPage - Filling username: TestUser
+10:09:23.844 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:09:23.944 [main] INFO  pages.FormPage - Filling password
+10:09:24.027 [main] INFO  pages.FormPage - Filling confirm password
+10:09:24.112 [main] INFO  pages.FormPage - Verifying password match
+10:09:24.112 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:09:24.211 [main] INFO  pages.FormPage - Selecting language level: intermediate
+10:09:24.298 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:24:24.063 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:24:24.089 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:24:24.610 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:24:24.653 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:24:26.447 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:24:26.468 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:24:26.972 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:24:27.029 [main] INFO  pages.FormPage - Filling username: TestUser
+10:24:27.138 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:24:27.233 [main] INFO  pages.FormPage - Filling password
+10:24:27.325 [main] INFO  pages.FormPage - Filling confirm password
+10:24:27.435 [main] INFO  pages.FormPage - Verifying password match
+10:24:27.436 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:24:27.500 [main] INFO  pages.FormPage - Selecting language level: intermediate
+10:24:27.557 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:26:07.801 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:26:07.829 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:26:08.267 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:26:08.296 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:26:09.407 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:26:09.417 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:26:09.797 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:26:09.854 [main] INFO  pages.FormPage - Filling username: TestUser
+10:26:09.999 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:26:10.096 [main] INFO  pages.FormPage - Filling password
+10:26:10.178 [main] INFO  pages.FormPage - Filling confirm password
+10:26:10.249 [main] INFO  pages.FormPage - Verifying password match
+10:26:10.249 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:26:10.308 [main] INFO  pages.FormPage - Selecting language level: Intermediate
+10:26:10.345 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:28:29.642 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:28:29.665 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:28:30.115 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:28:30.142 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:28:31.271 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:28:31.286 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:28:32.271 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:28:32.321 [main] INFO  pages.FormPage - Filling username: TestUser
+10:28:32.420 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:28:32.510 [main] INFO  pages.FormPage - Filling password
+10:28:32.591 [main] INFO  pages.FormPage - Filling confirm password
+10:28:32.659 [main] INFO  pages.FormPage - Verifying password match
+10:28:32.659 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:28:32.716 [main] INFO  pages.FormPage - Selecting language level: Intermediate
+10:28:32.775 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:28:55.035 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:28:55.066 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:28:55.579 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:28:55.615 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:28:57.468 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:28:57.516 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:28:57.905 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:28:57.986 [main] INFO  pages.FormPage - Filling username: TestUser
+10:28:58.179 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:28:58.352 [main] INFO  pages.FormPage - Filling password
+10:28:58.478 [main] INFO  pages.FormPage - Filling confirm password
+10:28:58.629 [main] INFO  pages.FormPage - Verifying password match
+10:28:58.629 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:28:58.724 [main] INFO  pages.FormPage - Selecting language level: Intermediate
+10:29:34.461 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:30:42.392 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:30:42.425 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:30:42.894 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:30:42.925 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:30:44.058 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:30:44.072 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:30:44.490 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:30:44.539 [main] INFO  pages.FormPage - Filling username: TestUser
+10:30:44.628 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:30:44.719 [main] INFO  pages.FormPage - Filling password
+10:30:44.795 [main] INFO  pages.FormPage - Filling confirm password
+10:30:44.872 [main] INFO  pages.FormPage - Verifying password match
+10:30:44.872 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:30:44.935 [main] INFO  pages.FormPage - Selecting language level: Intermediate
+10:30:45.006 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:36:36.789 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:36:36.817 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:36:37.287 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:36:37.320 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:36:38.470 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:36:38.478 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:36:38.818 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:36:38.871 [main] INFO  pages.FormPage - Filling username: TestUser
+10:36:38.977 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:36:39.088 [main] INFO  pages.FormPage - Filling password
+10:36:39.169 [main] INFO  pages.FormPage - Filling confirm password
+10:36:39.238 [main] INFO  pages.FormPage - Verifying password match
+10:36:39.239 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:36:39.296 [main] INFO  pages.FormPage - Selecting language level: Intermediate
+10:36:39.354 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:37:23.571 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:37:23.597 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:37:24.079 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:37:24.112 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:37:25.651 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:37:25.685 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:37:26.131 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:37:26.216 [main] INFO  pages.FormPage - Filling username: TestUser
+10:37:26.405 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:37:26.563 [main] INFO  pages.FormPage - Filling password
+10:37:26.696 [main] INFO  pages.FormPage - Filling confirm password
+10:37:26.805 [main] INFO  pages.FormPage - Verifying password match
+10:37:26.805 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:37:26.908 [main] INFO  pages.FormPage - Submitting form
+10:37:36.954 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:38:55.417 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:38:55.440 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:38:55.894 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:38:55.925 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:38:57.057 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:38:57.070 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:38:57.540 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:38:57.596 [main] INFO  pages.FormPage - Filling username: TestUser
+10:38:57.692 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:38:57.799 [main] INFO  pages.FormPage - Filling password
+10:38:57.889 [main] INFO  pages.FormPage - Filling confirm password
+10:38:57.968 [main] INFO  pages.FormPage - Verifying password match
+10:38:57.968 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+10:38:58.040 [main] INFO  pages.FormPage - Submitting form
+10:39:08.080 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:44:06.922 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:44:06.948 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:44:07.403 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:44:07.427 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:44:08.567 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:44:08.577 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:44:09.105 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:44:09.158 [main] INFO  pages.FormPage - Filling username: TestUser
+10:44:09.255 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:44:09.328 [main] INFO  pages.FormPage - Filling password
+10:44:09.408 [main] INFO  pages.FormPage - Filling confirm password
+10:44:09.490 [main] INFO  pages.FormPage - Verifying password match
+10:44:09.490 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+10:44:09.569 [main] INFO  pages.FormPage - Submitting form
+10:44:19.675 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:44:40.154 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:44:40.177 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:44:40.657 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:44:40.691 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:44:41.909 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:44:41.939 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:44:42.321 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:44:42.398 [main] INFO  pages.FormPage - Filling username: TestUser
+10:44:42.582 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:44:42.720 [main] INFO  pages.FormPage - Filling password
+10:44:42.884 [main] INFO  pages.FormPage - Filling confirm password
+10:44:43.008 [main] INFO  pages.FormPage - Verifying password match
+10:44:43.009 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+10:44:43.120 [main] INFO  pages.FormPage - Submitting form
+10:44:53.359 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:54:39.815 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:54:39.843 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:54:40.657 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:54:40.716 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:54:42.223 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:54:42.235 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:54:42.826 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:54:42.881 [main] INFO  pages.FormPage - Filling username: TestUser
+10:54:42.986 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:54:43.085 [main] INFO  pages.FormPage - Filling password
+10:54:43.189 [main] INFO  pages.FormPage - Filling confirm password
+10:54:43.269 [main] INFO  pages.FormPage - Verifying password match
+10:54:43.270 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+10:54:43.328 [main] INFO  pages.FormPage - Submitting form
+10:54:53.973 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:55:11.096 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:55:11.120 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:55:11.915 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:55:11.958 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:55:13.987 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:55:14.008 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:55:14.730 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:55:14.781 [main] INFO  pages.FormPage - Filling username: TestUser
+10:55:14.901 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:55:14.991 [main] INFO  pages.FormPage - Filling password
+10:55:15.068 [main] INFO  pages.FormPage - Filling confirm password
+10:55:15.139 [main] INFO  pages.FormPage - Verifying password match
+10:55:15.139 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+10:55:15.233 [main] INFO  pages.FormPage - Submitting form
+10:55:25.354 [main] INFO  main.MainPage_Test - Closing WebDriver
+10:56:23.814 [main] INFO  main.MainPage_Test - Initializing WebDriver
+10:56:23.831 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+10:56:24.364 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+10:56:24.397 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+10:56:25.576 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+10:56:25.586 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+10:56:25.917 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+10:56:25.986 [main] INFO  pages.FormPage - Filling username: TestUser
+10:56:26.115 [main] INFO  pages.FormPage - Filling email: test@example.com
+10:56:26.217 [main] INFO  pages.FormPage - Filling password
+10:56:26.306 [main] INFO  pages.FormPage - Filling confirm password
+10:56:26.377 [main] INFO  pages.FormPage - Verifying password match
+10:56:26.378 [main] INFO  pages.FormPage - Filling birth date: 1990-01-01
+10:56:26.473 [main] INFO  pages.FormPage - Submitting form
+10:56:36.589 [main] INFO  main.MainPage_Test - Closing WebDriver
+11:02:25.220 [main] INFO  main.MainPage_Test - Initializing WebDriver
+11:02:25.245 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+11:02:25.701 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+11:02:25.733 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+11:02:26.851 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+11:02:26.863 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+11:02:27.218 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+11:02:27.270 [main] INFO  pages.FormPage - Filling username: TestUser
+11:02:27.375 [main] INFO  pages.FormPage - Filling email: test@example.com
+11:02:27.457 [main] INFO  pages.FormPage - Filling password
+11:02:27.534 [main] INFO  pages.FormPage - Filling confirm password
+11:02:27.609 [main] INFO  pages.FormPage - Verifying password match
+11:02:27.609 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+11:02:27.670 [main] INFO  pages.FormPage - Selecting language level: Продвинутый
+11:02:27.767 [main] INFO  pages.FormPage - Submitting form
+11:02:27.924 [main] INFO  pages.FormPage - Verifying result text
+11:02:27.953 [main] ERROR pages.FormPage - Result text mismatch: expected 'Username: TestUser
+Email: test@example.com
+Birth Date: 10-10-1990
+Language Level: Продвинутый', but got 'Имя пользователя: TestUser
+Электронная почта: test@example.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced'
+11:02:27.957 [main] INFO  main.MainPage_Test - Closing WebDriver
+11:04:17.720 [main] INFO  main.MainPage_Test - Initializing WebDriver
+11:04:17.744 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+11:04:19.081 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+11:04:19.103 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+11:04:20.219 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+11:04:20.229 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+11:04:20.613 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+11:04:20.662 [main] INFO  pages.FormPage - Filling username: TestUser
+11:04:20.761 [main] INFO  pages.FormPage - Filling email: test@example.com
+11:04:20.852 [main] INFO  pages.FormPage - Filling password
+11:04:20.931 [main] INFO  pages.FormPage - Filling confirm password
+11:04:21.000 [main] INFO  pages.FormPage - Verifying password match
+11:04:21.000 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+11:04:21.067 [main] INFO  pages.FormPage - Selecting language level: Продвинутый
+11:04:21.179 [main] INFO  pages.FormPage - Submitting form
+16:45:30.976 [main] INFO  pages.FormPage - Verifying result text
+16:45:35.940 [main] INFO  main.MainPage_Test - Initializing WebDriver
+16:45:35.984 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+16:45:37.400 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+16:45:37.427 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+16:45:38.989 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+16:45:39.018 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+16:45:39.425 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+16:45:39.474 [main] INFO  pages.FormPage - Filling username: TestUser
+16:45:39.579 [main] INFO  pages.FormPage - Filling email: test@example.com
+16:45:39.671 [main] INFO  pages.FormPage - Filling password
+16:45:39.756 [main] INFO  pages.FormPage - Filling confirm password
+16:45:39.847 [main] INFO  pages.FormPage - Verifying password match
+16:45:39.847 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+16:45:39.936 [main] INFO  pages.FormPage - Selecting language level: Продвинутый
+16:45:40.053 [main] INFO  pages.FormPage - Submitting form
+16:45:46.485 [main] INFO  pages.FormPage - Verifying result text
+16:45:46.548 [main] ERROR pages.FormPage - Result text mismatch: expected 'Username: TestUser
+Email: test@example.com
+Birth Date: 10-10-1990
+Language Level: Продвинутый', but got 'Имя пользователя: TestUser
+Электронная почта: test@example.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced'
+16:45:46.570 [main] INFO  main.MainPage_Test - Closing WebDriver
+16:45:49.433 [main] INFO  main.MainPage_Test - Initializing WebDriver
+16:45:49.459 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+16:45:49.928 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+16:45:49.963 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+16:45:52.132 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+16:45:52.155 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+16:45:52.549 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+16:45:52.628 [main] INFO  pages.FormPage - Filling username: TestUser
+16:45:52.806 [main] INFO  pages.FormPage - Filling email: test@example.com
+16:45:53.000 [main] INFO  pages.FormPage - Filling password
+16:45:53.163 [main] INFO  pages.FormPage - Filling confirm password
+16:45:53.285 [main] INFO  pages.FormPage - Verifying password match
+16:45:53.286 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+16:45:53.398 [main] INFO  pages.FormPage - Selecting language level: Продвинутый
+16:45:53.561 [main] INFO  pages.FormPage - Submitting form
+16:45:53.733 [main] INFO  pages.FormPage - Verifying result text
+16:45:53.775 [main] ERROR pages.FormPage - Result text mismatch: expected 'Username: TestUser
+Email: test@example.com
+Birth Date: 10-10-1990
+Language Level: Продвинутый', but got 'Имя пользователя: TestUser
+Электронная почта: test@example.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced'
+16:45:53.781 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:47:19.803 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:47:19.831 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:47:21.171 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:47:21.197 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:47:23.443 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:47:23.465 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:47:23.875 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:47:23.960 [main] INFO  pages.FormPage - Filling username: asdf
+21:47:24.129 [main] INFO  pages.FormPage - Filling email: asdf@gmail.com
+21:47:24.330 [main] INFO  pages.FormPage - Filling password
+21:47:24.463 [main] INFO  pages.FormPage - Filling confirm password
+21:47:24.554 [main] INFO  pages.FormPage - Verifying password match
+21:47:24.554 [main] INFO  pages.FormPage - Filling birth date: 1999-10-10
+21:47:24.625 [main] INFO  pages.FormPage - Selecting language level: advanced
+21:47:24.701 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:52:36.891 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:52:36.939 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:52:37.791 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:52:37.851 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:52:40.068 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:52:40.103 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:52:40.547 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:52:40.626 [main] INFO  pages.FormPage - Filling username: asdf
+21:52:40.808 [main] INFO  pages.FormPage - Filling email: asdf@gmail.com
+21:52:41.001 [main] INFO  pages.FormPage - Filling password
+21:52:41.141 [main] INFO  pages.FormPage - Filling confirm password
+21:52:41.265 [main] INFO  pages.FormPage - Verifying password match
+21:52:41.265 [main] INFO  pages.FormPage - Filling birth date: 1999-10-10
+21:52:51.374 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:53:06.421 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:53:06.473 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:53:07.311 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:53:07.373 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:53:09.467 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:53:09.486 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:53:09.913 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:53:09.994 [main] INFO  pages.FormPage - Filling username: asdf
+21:53:10.169 [main] INFO  pages.FormPage - Filling email: asdf@gmail.com
+21:53:10.356 [main] INFO  pages.FormPage - Filling password
+21:53:10.511 [main] INFO  pages.FormPage - Filling confirm password
+21:53:10.641 [main] INFO  pages.FormPage - Verifying password match
+21:53:10.641 [main] INFO  pages.FormPage - Filling birth date: 1999-10-10
+21:53:20.724 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:53:45.677 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:53:45.720 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:53:46.512 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:53:46.582 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:53:48.536 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:53:48.550 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:53:48.999 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:53:49.088 [main] INFO  pages.FormPage - Filling username: asdf
+21:53:49.261 [main] INFO  pages.FormPage - Filling email: asdf@gmail.com
+21:53:49.425 [main] INFO  pages.FormPage - Filling password
+21:53:49.558 [main] INFO  pages.FormPage - Filling confirm password
+21:53:49.664 [main] INFO  pages.FormPage - Verifying password match
+21:53:49.664 [main] INFO  pages.FormPage - Filling birth date: 1999-10-10
+21:53:49.773 [main] INFO  pages.FormPage - Selecting language level: advanced
+21:53:49.964 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+21:53:50.115 [main] INFO  pages.FormPage - Submitting form
+21:53:50.271 [main] INFO  pages.FormPage - Verifying result text
+21:53:50.306 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: asdf
+Электронная почта: asdf@gmail.com
+Дата рождения: 1999-10-10
+Уровень языка: advanced', but got 'Имя пользователя: asdf
+Электронная почта: asdf@gmail.com
+Дата рождения: 91010-09-19
+Уровень языка: advanced'
+21:53:50.312 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:54:36.061 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:54:36.085 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:54:36.528 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:54:36.558 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:54:37.710 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:54:37.729 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:54:38.071 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:54:38.118 [main] INFO  pages.FormPage - Filling username: asdf
+21:54:38.209 [main] INFO  pages.FormPage - Filling email: asdf@gmail.com
+21:54:38.312 [main] INFO  pages.FormPage - Filling password
+21:54:38.398 [main] INFO  pages.FormPage - Filling confirm password
+21:54:38.516 [main] INFO  pages.FormPage - Verifying password match
+21:54:38.516 [main] INFO  pages.FormPage - Filling birth date: 1999-10-10
+21:54:38.587 [main] INFO  pages.FormPage - Selecting language level: advanced
+21:54:38.767 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+21:54:38.897 [main] INFO  pages.FormPage - Submitting form
+21:54:39.043 [main] INFO  pages.FormPage - Verifying result text
+21:54:39.073 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: asdf
+Электронная почта: asdf@gmail.com
+Дата рождения: 1999-10-10
+Уровень языка: advanced', but got 'Имя пользователя: asdf
+Электронная почта: asdf@gmail.com
+Дата рождения: 91010-09-19
+Уровень языка: advanced'
+21:54:39.078 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:55:19.227 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:55:19.257 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:55:20.167 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:55:20.226 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:55:22.304 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:55:22.326 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:55:22.770 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:55:22.862 [main] INFO  pages.FormPage - Filling username: TestName
+21:55:23.030 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+21:55:23.217 [main] INFO  pages.FormPage - Filling password
+21:55:23.354 [main] INFO  pages.FormPage - Filling confirm password
+21:55:23.486 [main] INFO  pages.FormPage - Verifying password match
+21:55:23.486 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+21:55:23.587 [main] INFO  pages.FormPage - Selecting language level: advanced
+21:55:23.782 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+21:55:23.960 [main] INFO  pages.FormPage - Submitting form
+21:55:24.111 [main] INFO  pages.FormPage - Verifying result text
+21:55:24.147 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-1990
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced'
+21:55:24.152 [main] INFO  main.MainPage_Test - Closing WebDriver
+21:57:37.792 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:57:37.835 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:57:38.509 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:57:38.551 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:57:39.910 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:57:39.924 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:57:40.334 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:57:40.385 [main] INFO  pages.FormPage - Filling username: TestName
+21:57:40.516 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+21:57:40.606 [main] INFO  pages.FormPage - Filling password
+21:57:40.685 [main] INFO  pages.FormPage - Filling confirm password
+21:57:40.759 [main] INFO  pages.FormPage - Verifying password match
+21:57:40.760 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+21:58:18.716 [main] INFO  main.MainPage_Test - Initializing WebDriver
+21:58:18.764 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+21:58:19.568 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+21:58:19.634 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+21:58:21.612 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+21:58:21.634 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+21:58:22.071 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+21:58:22.156 [main] INFO  pages.FormPage - Filling username: TestName
+21:58:22.361 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+21:58:22.544 [main] INFO  pages.FormPage - Filling password
+21:58:22.677 [main] INFO  pages.FormPage - Filling confirm password
+21:58:22.803 [main] INFO  pages.FormPage - Verifying password match
+21:58:22.804 [main] INFO  pages.FormPage - Filling birth date: 10-10-1990
+21:58:22.906 [main] INFO  pages.FormPage - Selecting language level: advanced
+21:58:23.105 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+21:58:23.261 [main] INFO  pages.FormPage - Submitting form
+21:58:23.410 [main] INFO  pages.FormPage - Verifying result text
+21:58:23.443 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-1990
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced'
+21:58:23.449 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:01:14.525 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:01:14.557 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:01:15.356 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:01:15.413 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:01:17.383 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:01:17.432 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:01:17.873 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:01:17.952 [main] INFO  pages.FormPage - Filling username: TestName
+22:01:18.129 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:01:18.302 [main] INFO  pages.FormPage - Filling password
+22:01:18.428 [main] INFO  pages.FormPage - Filling confirm password
+22:01:18.548 [main] INFO  pages.FormPage - Verifying password match
+22:01:18.549 [main] INFO  pages.FormPage - Filling birth date: 1990-10-10
+22:01:18.646 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:01:18.858 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:01:19.008 [main] INFO  pages.FormPage - Submitting form
+22:01:19.169 [main] INFO  pages.FormPage - Verifying result text
+22:01:19.200 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1010-09-19
+Уровень языка: advanced'
+22:01:19.206 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:01:44.029 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:01:44.054 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:01:44.519 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:01:44.559 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:01:46.546 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:01:46.571 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:01:47.004 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:01:47.088 [main] INFO  pages.FormPage - Filling username: TestName
+22:01:47.272 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:01:47.455 [main] INFO  pages.FormPage - Filling password
+22:01:47.592 [main] INFO  pages.FormPage - Filling confirm password
+22:01:47.719 [main] INFO  pages.FormPage - Verifying password match
+22:01:47.719 [main] INFO  pages.FormPage - Filling birth date: 1990-10-10
+22:01:47.815 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:01:48.015 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:01:48.182 [main] INFO  pages.FormPage - Submitting form
+22:01:48.317 [main] INFO  pages.FormPage - Verifying result text
+22:01:48.350 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1010-09-19
+Уровень языка: advanced'
+22:01:48.354 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:03:21.924 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:03:21.946 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:03:22.394 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:03:22.426 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:03:23.612 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:03:23.628 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:03:23.975 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:03:24.032 [main] INFO  pages.FormPage - Filling username: TestName
+22:03:24.133 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:03:24.223 [main] INFO  pages.FormPage - Filling password
+22:03:24.304 [main] INFO  pages.FormPage - Filling confirm password
+22:03:24.386 [main] INFO  pages.FormPage - Verifying password match
+22:03:24.386 [main] INFO  pages.FormPage - Filling birth date: 1990-10-10
+22:03:24.450 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:03:24.578 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:03:24.701 [main] INFO  pages.FormPage - Submitting form
+22:03:24.822 [main] INFO  pages.FormPage - Verifying result text
+22:03:24.843 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1990-10-10
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 1010-09-19
+Уровень языка: advanced'
+22:03:24.847 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:03:45.828 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:03:45.880 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:03:46.738 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:03:46.806 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:03:48.845 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:03:48.874 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:03:49.275 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:03:49.358 [main] INFO  pages.FormPage - Filling username: TestName
+22:03:49.541 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:03:49.705 [main] INFO  pages.FormPage - Filling password
+22:03:49.852 [main] INFO  pages.FormPage - Filling confirm password
+22:03:49.983 [main] INFO  pages.FormPage - Verifying password match
+22:03:49.983 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:03:50.093 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:03:50.309 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:03:50.468 [main] INFO  pages.FormPage - Submitting form
+22:03:50.627 [main] INFO  pages.FormPage - Verifying result text
+22:03:50.662 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:03:50.668 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:05:55.809 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:05:55.834 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:05:56.289 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:05:56.325 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:05:57.940 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:05:57.955 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:05:58.356 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:05:58.430 [main] INFO  pages.FormPage - Filling username: TestName
+22:05:58.617 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:05:58.810 [main] INFO  pages.FormPage - Filling password
+22:05:58.941 [main] INFO  pages.FormPage - Filling confirm password
+22:05:59.075 [main] INFO  pages.FormPage - Verifying password match
+22:05:59.075 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:05:59.182 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:05:59.419 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:05:59.584 [main] INFO  pages.FormPage - Submitting form
+22:05:59.757 [main] INFO  pages.FormPage - Verifying result text
+22:05:59.791 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:05:59.796 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:06:31.103 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:06:31.148 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:06:31.979 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:06:32.041 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:06:34.066 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:06:34.092 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:06:34.474 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:06:34.564 [main] INFO  pages.FormPage - Filling username: TestName
+22:06:34.756 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:06:34.922 [main] INFO  pages.FormPage - Filling password
+22:06:35.066 [main] INFO  pages.FormPage - Filling confirm password
+22:06:35.175 [main] INFO  pages.FormPage - Verifying password match
+22:06:35.175 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:06:35.269 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:06:35.468 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:06:35.619 [main] INFO  pages.FormPage - Submitting form
+22:06:35.778 [main] INFO  pages.FormPage - Verifying result text
+22:06:35.809 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:06:35.814 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:06:51.796 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:06:51.846 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:06:52.636 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:06:52.695 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:06:54.766 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:06:54.792 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:06:55.497 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:06:55.551 [main] INFO  pages.FormPage - Filling username: TestName
+22:06:55.685 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:06:55.817 [main] INFO  pages.FormPage - Filling password
+22:06:55.918 [main] INFO  pages.FormPage - Filling confirm password
+22:06:56.021 [main] INFO  pages.FormPage - Verifying password match
+22:06:56.021 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:06:56.115 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:06:56.309 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:06:56.449 [main] INFO  pages.FormPage - Submitting form
+22:07:01.595 [main] INFO  pages.FormPage - Verifying result text
+22:07:01.636 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:07:01.644 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:10:12.574 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:10:12.617 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:10:13.557 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:10:13.618 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:10:15.806 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:10:15.826 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:10:16.266 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:10:16.339 [main] INFO  pages.FormPage - Filling username: TestName
+22:10:16.506 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:10:16.666 [main] INFO  pages.FormPage - Filling password
+22:10:16.812 [main] INFO  pages.FormPage - Filling confirm password
+22:10:16.943 [main] INFO  pages.FormPage - Verifying password match
+22:10:16.944 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:10:17.041 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:10:17.236 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:10:17.379 [main] INFO  pages.FormPage - Submitting form
+22:10:22.544 [main] INFO  pages.FormPage - Verifying result text
+22:10:22.585 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName <br> Электронная почта: test@gmail.com <br> Дата рождения: 2005-10-10 <br> Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:10:22.591 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:12:05.509 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:12:05.534 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:12:05.989 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:12:06.018 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:12:07.119 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:12:07.126 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:12:07.521 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:12:07.570 [main] INFO  pages.FormPage - Filling username: TestName
+22:12:07.668 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:12:07.764 [main] INFO  pages.FormPage - Filling password
+22:12:07.838 [main] INFO  pages.FormPage - Filling confirm password
+22:12:07.914 [main] INFO  pages.FormPage - Verifying password match
+22:12:07.914 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:12:07.978 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:12:08.110 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:12:08.238 [main] INFO  pages.FormPage - Submitting form
+22:12:13.343 [main] INFO  pages.FormPage - Verifying result text
+22:12:13.379 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:12:13.385 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:15:50.110 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:15:50.131 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:15:50.594 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:15:50.622 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:15:51.871 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:15:51.881 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:15:52.273 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:15:52.329 [main] INFO  pages.FormPage - Filling username: TestName
+22:15:52.440 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:15:52.549 [main] INFO  pages.FormPage - Filling password
+22:15:52.647 [main] INFO  pages.FormPage - Filling confirm password
+22:15:52.739 [main] INFO  pages.FormPage - Verifying password match
+22:15:52.739 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:15:52.821 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:15:52.975 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:15:53.083 [main] INFO  pages.FormPage - Submitting form
+22:15:58.194 [main] INFO  pages.FormPage - Verifying result text
+22:15:58.235 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:15:58.240 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:17:37.433 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:17:37.456 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:17:37.915 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:17:37.944 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:17:39.127 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:17:39.135 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:17:39.490 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:17:39.542 [main] INFO  pages.FormPage - Filling username: TestName
+22:17:39.638 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:17:39.728 [main] INFO  pages.FormPage - Filling password
+22:17:39.814 [main] INFO  pages.FormPage - Filling confirm password
+22:17:39.885 [main] INFO  pages.FormPage - Verifying password match
+22:17:39.885 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:17:39.946 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:17:40.076 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:17:40.197 [main] INFO  pages.FormPage - Submitting form
+22:17:45.317 [main] INFO  pages.FormPage - Verifying result text
+22:17:45.358 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:17:45.363 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:21:53.077 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:21:53.103 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:21:53.550 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:21:53.594 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:21:55.168 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:21:55.188 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:21:55.707 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:21:55.780 [main] INFO  pages.FormPage - Filling username: TestName
+22:21:55.981 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:21:56.173 [main] INFO  pages.FormPage - Filling password
+22:21:56.301 [main] INFO  pages.FormPage - Filling confirm password
+22:21:56.425 [main] INFO  pages.FormPage - Verifying password match
+22:21:56.425 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:21:56.521 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:21:56.749 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:21:56.887 [main] INFO  pages.FormPage - Submitting form
+22:22:02.049 [main] INFO  pages.FormPage - Verifying result text
+22:22:02.098 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName <br> Электронная почта: test@gmail.com <br> Дата рождения: 2005-10-10 <br> Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:22:02.104 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:22:41.082 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:22:41.107 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:22:41.575 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:22:41.603 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:22:42.759 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:22:42.768 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:22:43.175 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:22:43.235 [main] INFO  pages.FormPage - Filling username: TestName
+22:22:43.373 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:22:43.513 [main] INFO  pages.FormPage - Filling password
+22:22:43.629 [main] INFO  pages.FormPage - Filling confirm password
+22:22:43.771 [main] INFO  pages.FormPage - Verifying password match
+22:22:43.771 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:22:43.879 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:22:44.087 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:22:44.237 [main] INFO  pages.FormPage - Submitting form
+22:22:49.398 [main] INFO  pages.FormPage - Verifying result text
+22:22:49.582 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:24:21.635 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:24:21.660 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:24:22.108 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:24:22.143 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:24:23.323 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:24:23.343 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:24:23.709 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:24:23.761 [main] INFO  pages.FormPage - Filling username: TestName
+22:24:23.857 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:24:23.959 [main] INFO  pages.FormPage - Filling password
+22:24:24.034 [main] INFO  pages.FormPage - Filling confirm password
+22:24:24.112 [main] INFO  pages.FormPage - Verifying password match
+22:24:24.112 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:24:24.177 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:24:24.347 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:24:24.468 [main] INFO  pages.FormPage - Submitting form
+22:24:29.588 [main] INFO  pages.FormPage - Verifying result text
+22:24:29.620 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:24:29.625 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:27:12.805 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:27:12.843 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:27:13.670 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:27:13.723 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:27:15.745 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:27:15.769 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:27:16.155 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:27:16.251 [main] INFO  pages.FormPage - Filling username: TestName
+22:27:16.443 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:27:16.621 [main] INFO  pages.FormPage - Filling password
+22:27:16.766 [main] INFO  pages.FormPage - Filling confirm password
+22:27:16.888 [main] INFO  pages.FormPage - Verifying password match
+22:27:16.889 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:27:16.989 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:27:17.181 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:27:17.339 [main] INFO  pages.FormPage - Submitting form
+22:27:22.508 [main] INFO  pages.FormPage - Verifying result text
+22:27:22.550 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName <br> Электронная почта: test@gmail.com <br> Дата рождения: 2005-10-10 <br> Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:27:22.555 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:27:56.404 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:27:56.453 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:27:57.247 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:27:57.300 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:27:59.161 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:27:59.186 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:27:59.714 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:27:59.788 [main] INFO  pages.FormPage - Filling username: TestName
+22:27:59.988 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:28:00.164 [main] INFO  pages.FormPage - Filling password
+22:28:00.321 [main] INFO  pages.FormPage - Filling confirm password
+22:28:00.442 [main] INFO  pages.FormPage - Verifying password match
+22:28:00.442 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:28:00.546 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:28:00.751 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:28:00.925 [main] INFO  pages.FormPage - Submitting form
+22:28:06.093 [main] INFO  pages.FormPage - Verifying result text
+22:28:06.124 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:28:06.130 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:29:38.188 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:29:38.213 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:29:38.664 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:29:38.702 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:29:39.869 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:29:39.887 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:29:40.292 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:29:40.347 [main] INFO  pages.FormPage - Filling username: TestName
+22:29:40.459 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:29:40.543 [main] INFO  pages.FormPage - Filling password
+22:29:40.619 [main] INFO  pages.FormPage - Filling confirm password
+22:29:40.699 [main] INFO  pages.FormPage - Verifying password match
+22:29:40.699 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:29:40.780 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:29:40.934 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:29:41.043 [main] INFO  pages.FormPage - Submitting form
+22:29:46.159 [main] INFO  pages.FormPage - Verifying result text
+22:29:46.201 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:30:58.007 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:30:58.031 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:30:58.489 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:30:58.522 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:30:59.618 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:30:59.632 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:31:00.025 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:31:00.075 [main] INFO  pages.FormPage - Filling username: TestName
+22:31:00.184 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:31:00.277 [main] INFO  pages.FormPage - Filling password
+22:31:00.357 [main] INFO  pages.FormPage - Filling confirm password
+22:31:00.434 [main] INFO  pages.FormPage - Verifying password match
+22:31:00.434 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:31:00.496 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:31:00.629 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:31:00.751 [main] INFO  pages.FormPage - Submitting form
+22:31:05.862 [main] INFO  pages.FormPage - Verifying result text
+22:31:06.013 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:33:19.267 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:33:19.294 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:33:19.757 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:33:19.785 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:33:20.915 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:33:20.926 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:33:21.467 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:33:21.518 [main] INFO  pages.FormPage - Filling username: TestName
+22:33:21.611 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:33:21.714 [main] INFO  pages.FormPage - Filling password
+22:33:21.796 [main] INFO  pages.FormPage - Filling confirm password
+22:33:21.885 [main] INFO  pages.FormPage - Verifying password match
+22:33:21.885 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:33:21.973 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:33:22.137 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:33:22.279 [main] INFO  pages.FormPage - Submitting form
+22:33:22.412 [main] INFO  pages.FormPage - Verifying result text
+22:33:22.448 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:33:22.453 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:35:43.375 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:35:43.423 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:35:44.542 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:35:44.622 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:35:46.702 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:35:46.722 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:35:47.166 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:35:47.234 [main] INFO  pages.FormPage - Filling username: TestName
+22:35:47.390 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:35:47.533 [main] INFO  pages.FormPage - Filling password
+22:35:47.653 [main] INFO  pages.FormPage - Filling confirm password
+22:35:47.766 [main] INFO  pages.FormPage - Verifying password match
+22:35:47.767 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:35:47.864 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:35:48.055 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:35:48.200 [main] INFO  pages.FormPage - Submitting form
+22:35:48.334 [main] INFO  pages.FormPage - Verifying result text
+22:35:48.475 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:39:38.893 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:39:38.914 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:39:39.366 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:39:39.395 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:39:40.538 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:39:40.547 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:39:40.946 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:39:40.998 [main] INFO  pages.FormPage - Filling username: TestName
+22:39:41.099 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:39:41.190 [main] INFO  pages.FormPage - Filling password
+22:39:41.271 [main] INFO  pages.FormPage - Filling confirm password
+22:39:41.353 [main] INFO  pages.FormPage - Verifying password match
+22:39:41.353 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:39:41.442 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:39:41.591 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:39:41.704 [main] INFO  pages.FormPage - Submitting form
+22:39:41.805 [main] INFO  pages.FormPage - Verifying result text
+22:39:41.917 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:40:56.816 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:40:56.840 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:40:57.280 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:40:57.314 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:40:58.444 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:40:58.464 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:40:58.871 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:40:58.919 [main] INFO  pages.FormPage - Filling username: TestName
+22:40:59.016 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:40:59.109 [main] INFO  pages.FormPage - Filling password
+22:40:59.194 [main] INFO  pages.FormPage - Filling confirm password
+22:40:59.265 [main] INFO  pages.FormPage - Verifying password match
+22:40:59.266 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:40:59.334 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:40:59.488 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:40:59.603 [main] INFO  pages.FormPage - Submitting form
+22:40:59.710 [main] INFO  pages.FormPage - Verifying result text
+22:40:59.821 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:41:28.804 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:41:28.829 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:41:29.264 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:41:29.296 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:41:30.951 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:41:30.981 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:41:31.531 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:41:31.599 [main] INFO  pages.FormPage - Filling username: TestName
+22:41:31.822 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:41:31.992 [main] INFO  pages.FormPage - Filling password
+22:41:32.130 [main] INFO  pages.FormPage - Filling confirm password
+22:41:32.268 [main] INFO  pages.FormPage - Verifying password match
+22:41:32.269 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:41:32.382 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:41:32.611 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:41:32.781 [main] INFO  pages.FormPage - Submitting form
+22:41:32.987 [main] INFO  pages.FormPage - Verifying result text
+22:41:33.158 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:42:03.895 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:42:03.920 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:42:04.365 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:42:04.405 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:42:06.008 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:42:06.039 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:42:06.656 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:42:06.729 [main] INFO  pages.FormPage - Filling username: TestName
+22:42:06.901 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:42:07.046 [main] INFO  pages.FormPage - Filling password
+22:42:07.176 [main] INFO  pages.FormPage - Filling confirm password
+22:42:07.285 [main] INFO  pages.FormPage - Verifying password match
+22:42:07.285 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:42:07.389 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:42:07.597 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:42:07.744 [main] INFO  pages.FormPage - Submitting form
+22:42:07.888 [main] INFO  pages.FormPage - Verifying result text
+22:42:08.025 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:45:34.189 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:45:34.214 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:45:34.659 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:45:34.701 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:45:35.894 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:45:35.904 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:45:36.362 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:45:36.412 [main] INFO  pages.FormPage - Filling username: TestName
+22:45:36.546 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:45:36.641 [main] INFO  pages.FormPage - Filling password
+22:45:36.729 [main] INFO  pages.FormPage - Filling confirm password
+22:45:36.843 [main] INFO  pages.FormPage - Verifying password match
+22:45:36.844 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:45:36.919 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:45:37.048 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:45:37.155 [main] INFO  pages.FormPage - Submitting form
+22:45:37.301 [main] INFO  pages.FormPage - Verifying result text
+22:45:37.325 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:45:37.329 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:47:02.191 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:47:02.216 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:47:02.661 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:47:02.696 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:47:03.886 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:47:03.899 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:47:04.271 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:47:04.323 [main] INFO  pages.FormPage - Filling username: TestName
+22:47:04.425 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:47:04.515 [main] INFO  pages.FormPage - Filling password
+22:47:04.608 [main] INFO  pages.FormPage - Filling confirm password
+22:47:04.685 [main] INFO  pages.FormPage - Verifying password match
+22:47:04.685 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:47:04.754 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:47:04.889 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:47:05.009 [main] INFO  pages.FormPage - Submitting form
+22:47:05.107 [main] INFO  pages.FormPage - Verifying result text
+22:47:05.131 [main] ERROR pages.FormPage - Result text mismatch: expected 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 10-10-2005
+Уровень языка: advanced', but got 'Имя пользователя: TestName
+Электронная почта: test@gmail.com
+Дата рождения: 2005-10-10
+Уровень языка: advanced'
+22:47:05.135 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:48:20.617 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:48:20.639 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:48:21.812 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:48:21.829 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:48:22.896 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:48:22.909 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:48:23.286 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:48:23.335 [main] INFO  pages.FormPage - Filling username: TestName
+22:48:23.434 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:48:23.530 [main] INFO  pages.FormPage - Filling password
+22:48:23.613 [main] INFO  pages.FormPage - Filling confirm password
+22:48:23.688 [main] INFO  pages.FormPage - Verifying password match
+22:48:23.688 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:48:23.755 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:48:23.891 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:48:24.021 [main] INFO  pages.FormPage - Submitting form
+22:48:24.127 [main] INFO  pages.FormPage - Verifying result text
+22:48:24.254 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:50:23.569 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:50:23.594 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:50:24.028 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:50:24.057 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:50:25.211 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:50:25.224 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:50:25.596 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:50:25.649 [main] INFO  pages.FormPage - Filling username: TestName
+22:50:25.756 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:50:25.844 [main] INFO  pages.FormPage - Filling password
+22:50:25.923 [main] INFO  pages.FormPage - Filling confirm password
+22:50:26.001 [main] INFO  pages.FormPage - Verifying password match
+22:50:26.001 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:50:26.060 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:50:26.188 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:50:26.318 [main] INFO  pages.FormPage - Submitting form
+22:50:26.420 [main] INFO  pages.FormPage - Verifying result text
+22:50:26.517 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:51:18.651 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:51:18.675 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:51:19.277 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:51:19.318 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:51:21.363 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:51:21.381 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:51:21.822 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:51:21.901 [main] INFO  pages.FormPage - Filling username: TestName
+22:51:22.090 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:51:22.264 [main] INFO  pages.FormPage - Filling password
+22:51:22.401 [main] INFO  pages.FormPage - Filling confirm password
+22:51:22.513 [main] INFO  pages.FormPage - Verifying password match
+22:51:22.514 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:51:22.609 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:51:22.843 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: unknown
+22:51:23.001 [main] INFO  pages.FormPage - Submitting form
+22:51:23.151 [main] INFO  pages.FormPage - Verifying result text
+22:51:23.280 [main] INFO  main.MainPage_Test - Test testFormSubmission passed
+22:51:23.283 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:53:20.001 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:53:20.019 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:53:20.514 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:53:20.549 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:53:22.639 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:53:22.659 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:53:23.081 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:53:23.164 [main] INFO  pages.FormPage - Filling username: TestName
+22:53:23.349 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:53:23.536 [main] INFO  pages.FormPage - Filling password
+22:53:23.674 [main] INFO  pages.FormPage - Filling confirm password
+22:53:23.823 [main] INFO  pages.FormPage - Verifying password match
+22:53:23.823 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:53:23.932 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:53:24.161 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+22:53:24.351 [main] INFO  pages.FormPage - Submitting form
+22:53:24.538 [main] INFO  pages.FormPage - Verifying result text
+22:53:24.725 [main] INFO  main.MainPage_Test - Test testFormSubmission passed
+22:53:24.729 [main] INFO  main.MainPage_Test - Closing WebDriver
+22:54:36.688 [main] INFO  main.MainPage_Test - Initializing WebDriver
+22:54:36.712 [main] INFO  factory.WebDriverFactory - Creating WebDriver for browser: chrome
+22:54:37.479 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.154 (resolved driver for Chrome 139)
+22:54:37.531 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\norden\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe
+22:54:39.863 [main] INFO  main.MainPage_Test - Starting test: testFormSubmission
+22:54:39.874 [main] INFO  pages.FormPage - Initialized FormPage with path: /form.html
+22:54:40.304 [main] INFO  pages.FormPage - Opened FormPage at URL: https://otus.home.kartushin.su/form.html
+22:54:40.376 [main] INFO  pages.FormPage - Filling username: TestName
+22:54:40.531 [main] INFO  pages.FormPage - Filling email: test@gmail.com
+22:54:40.686 [main] INFO  pages.FormPage - Filling password
+22:54:40.828 [main] INFO  pages.FormPage - Filling confirm password
+22:54:40.939 [main] INFO  pages.FormPage - Verifying password match
+22:54:40.941 [main] INFO  pages.FormPage - Filling birth date: 10-10-2005
+22:54:41.058 [main] INFO  pages.FormPage - Selecting language level: advanced
+22:54:41.257 [main] WARN  pages.FormPage - Failed to select by visible text 'advanced', trying by value: Cannot locate option with text: advanced
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+22:54:41.408 [main] INFO  pages.FormPage - Submitting form
+22:54:41.558 [main] INFO  pages.FormPage - Verifying result text
+22:54:41.768 [main] INFO  main.MainPage_Test - Test testFormSubmission passed
+22:54:41.771 [main] INFO  main.MainPage_Test - Closing WebDriver
