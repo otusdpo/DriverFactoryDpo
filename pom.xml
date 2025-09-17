@@ -17,7 +17,6 @@
         <junit.version>5.13.4</junit.version>
         <webdrivermanager.version>6.2.0</webdrivermanager.version>
         <selenium.java.version>4.34.0</selenium.java.version>
-        <assertj.version>3.27.4</assertj.version>
         <slf4j.api.version>2.0.16</slf4j.api.version>
     </properties>
 
@@ -38,11 +37,6 @@
             <version>${selenium.java.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.assertj</groupId>
-            <artifactId>assertj-core</artifactId>
-            <version>${assertj.version}</version>
-        </dependency>
-        <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>${slf4j.api.version}</version>
@@ -59,7 +53,6 @@
         </dependency>
     </dependencies>
 
-
     <build>
         <plugins>
             <plugin>
@@ -67,23 +60,21 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>${maven.compiler.plugin.version}</version>
                 <configuration>
-                    <target>${maven.compiler.target}</target>
                     <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
                 </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>${maven.surefire.plugin.version}</version>
-
                 <configuration>
                     <systemPropertyVariables>
-                        <base.url>https://otus.ru</base.url>
+                        <base.url>https://otus.home.kartushin.su</base.url>
                         <browser>chrome</browser>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 </project>

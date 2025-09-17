@@ -1,13 +1,12 @@
 package pages;
 
-
+import common.AbsBasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
@@ -24,9 +23,9 @@ public class FormPage extends AbsBasePage {
     private final By submitButton = By.xpath("//*[@id=\"registrationForm\"]/input");
     private final By resultDiv = By.id("output");
 
-    public FormPage(WebDriver driver) {
-        super(driver, "/form.html");
-        logger.info("Initialized FormPage with path: /form.html");
+    public FormPage(WebDriver driver, String baseUrl) {
+        super(driver, baseUrl + "/form.html");
+        logger.info("Initialized FormPage with path: {}", baseUrl + "/form.html");
     }
 
     @Override
@@ -86,7 +85,7 @@ public class FormPage extends AbsBasePage {
             logger.debug("Selected option by value: {}", select.getFirstSelectedOption().getText());
         }
         return this;
-        }
+    }
 
     public FormPage verifyPasswordMatch(String password, String confirmPassword) {
         logger.info("Verifying password match");
@@ -126,4 +125,30 @@ public class FormPage extends AbsBasePage {
         return this;
     }
 
+    public FormPage verifyResultTextContains(String expectedUsername, String expectedEmail, String expectedBirthDate, String expectedLevel) {
+        logger.info("Verifying result text contains expected values");
+        String resultText = getResultText();
+        // Convert expectedBirthDate from DD-MM-YYYY to YYYY-MM-DD
+        DateTimeFormatter inputFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+        DateTimeFormatter outputFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+        LocalDate date = LocalDate.parse(expectedBirthDate, inputFormatter);
+        String formattedBirthDate = date.format(outputFormatter);
+        if (!resultText.contains("Имя пользователя: " + expectedUsername + "\n")) {
+            logger.error("Result text does not contain username: {}", expectedUsername);
+            throw new AssertionError("Result text does not contain username: " + expectedUsername);
+        }
+        if (!resultText.contains("Электронная почта: " + expectedEmail + "\n")) {
+            logger.error("Result text does not contain email: {}", expectedEmail);
+            throw new AssertionError("Result text does not contain email: " + expectedEmail);
+        }
+        if (!resultText.contains("Дата рождения: " + formattedBirthDate + "\n")) {
+            logger.error("Result text does not contain birth date: {}", formattedBirthDate);
+            throw new AssertionError("Result text does not contain birth date: " + formattedBirthDate);
+        }
+        if (!resultText.contains("Уровень языка: " + expectedLevel)) {
+            logger.error("Result text does not contain language level: {}", expectedLevel);
+            throw new AssertionError("Result text does not contain language level: " + expectedLevel);
+        }
+        return this;
+    }
 }

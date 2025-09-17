@@ -8,12 +8,6 @@ import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import pages.FormPage;
-import java.util.Properties;
-import java.io.InputStream;
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-
-import static org.assertj.core.api.Assertions.assertThat;
 
 public class MainPage_Test {
     private static final Logger logger = LoggerFactory.getLogger(MainPage_Test.class);
@@ -24,26 +18,6 @@ public class MainPage_Test {
         logger.info("Initializing WebDriver");
         String browser = System.getProperty("browser", "chrome");
         this.driver = WebDriverFactory.create(browser);
-
-        Properties props = new Properties();
-        InputStream input = getClass().getClassLoader().getResourceAsStream("config.properties");
-        if (input == null) {
-            logger.warn("config.properties not found, using default base.url");
-            System.setProperty("base.url", "https://otus.home.kartushin.su");
-        } else {
-            try {
-                props.load(input);
-                System.setProperty("base.url", props.getProperty("base.url", "https://otus.home.kartushin.su"));
-            } catch (Exception e) {
-                logger.error("Failed to load config.properties", e);
-            } finally {
-                try {
-                    input.close();
-                } catch (Exception e) {
-                    logger.error("Failed to close input stream", e);
-                }
-            }
-        }
     }
 
     @AfterEach
@@ -57,6 +31,7 @@ public class MainPage_Test {
     @Test
     public void testFormSubmission() {
         logger.info("Starting test: testFormSubmission");
+        String baseUrl = System.getProperty("base.url", "https://otus.home.kartushin.su");
         String username = System.getProperty("username", "TestName");
         String email = System.getProperty("email", "test@gmail.com");
         String password = System.getProperty("password", "Pass123!");
@@ -64,8 +39,8 @@ public class MainPage_Test {
         String birthDate = System.getProperty("birthDate", "10-10-2005");
         String languageLevel = System.getProperty("languageLevel", "advanced");
 
-        FormPage formPage = new FormPage(driver);
-        logger.debug("Opening form page");
+        FormPage formPage = new FormPage(driver, baseUrl);
+        logger.debug("Opening form page: {}", baseUrl + "/form.html");
         formPage.open();
 
         logger.debug("Filling username: {}", username);
@@ -96,18 +71,7 @@ public class MainPage_Test {
         formPage.verifyResultText(username, email, birthDate, languageLevel);
 
         logger.debug("Additional verification of result text (contains check)");
-        String resultText = formPage.getResultText();
-        // Convert birthDate from DD-MM-YYYY to YYYY-MM-DD
-        DateTimeFormatter inputFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
-        DateTimeFormatter outputFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
-        LocalDate date = LocalDate.parse(birthDate, inputFormatter);
-        String formattedBirthDate = date.format(outputFormatter);
-        assertThat(resultText)
-                .as("Additional verification of form submission result")
-                .contains("Имя пользователя: " + username + "\n")
-                .contains("Электронная почта: " + email + "\n")
-                .contains("Дата рождения: " + formattedBirthDate + "\n")
-                .contains("Уровень языка: " + languageLevel);
+        formPage.verifyResultTextContains(username, email, birthDate, languageLevel);
 
         logger.info("Test testFormSubmission passed");
     }
